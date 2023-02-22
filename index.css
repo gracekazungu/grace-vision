@@ -1,0 +1,41 @@
+*{
+    padding: 2px;
+    margin: 1px;
+    box-sizing: border-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container nav{
+    float: right;
+    text-align: center;
+    margin-right: 50px;
+}
+
+.content{
+padding-left: 30px;
+}
+ #header{
+    color: blueviolet;
+}
+.content img{
+    float: right;
+    width: 30%;
+    margin-right: 50px;
+}
+ button{
+    background-color: blue;
+    color: aliceblue;
+}
+#button{
+    float: right;
+    background-color: aliceblue;
+    color: blue;
+}
+#control{
+    background-color: aliceblue;
+    color: blue;
+}
+#full{
+    background-color: aliceblue;
+    color: blue;
+}
+
