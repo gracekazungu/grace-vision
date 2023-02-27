@@ -4,10 +4,9 @@
     box-sizing: border-box;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
-.container nav{
-    float: right;
+.container nav,h1,p{
     text-align: center;
-    margin-right: 50px;
+   
 }
 
 .content{
@@ -24,6 +23,7 @@ padding-left: 30px;
  button{
     background-color: blue;
     color: aliceblue;
+     border-radius: 40px;
 }
 #button{
     float: right;
@@ -33,9 +33,11 @@ padding-left: 30px;
 #control{
     background-color: aliceblue;
     color: blue;
+    border-radius: 20px;
 }
 #full{
     background-color: aliceblue;
     color: blue;
+    border-radius: 20px;
 }
 
